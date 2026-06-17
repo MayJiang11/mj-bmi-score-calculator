@@ -4,8 +4,6 @@ __pycache__/
 *$py.class
 
 # PyInstaller folders
-build/
-dist/
 *.spec
 
 # OS generated files
